@@ -84,7 +84,7 @@ export default function Home() {
           {/* Replace /profile.jpg with your actual image file in /public */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/profile.jpg"
+            src="/profile.jpeg"
             alt="Portrait of Kaushalya Rajapaksha"
             className="h-72 w-56 md:h-80 md:w-64 rounded-3xl object-cover border-2 border-purple-500/50 shadow-[0_20px_60px_rgba(102,126,234,0.3)] pulse-glow bg-gray-900"
           />
